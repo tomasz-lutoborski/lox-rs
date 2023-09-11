@@ -3,9 +3,5 @@
 version = 3
 
 [[package]]
-name = "lox-interpreter"
-version = "0.1.0"
-
-[[package]]
-name = "lox-vm"
+name = "lox"
 version = "0.1.0"
